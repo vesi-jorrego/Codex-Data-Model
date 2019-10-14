@@ -1,4 +1,4 @@
-<mxfile type="github" version="12.1.1" pages="6" modified="2019-10-14T13:37:39.565Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Tablet PC 2.0; wbx 1.0.0; rv:11.0) like Gecko" etag="ljGyUd8bT-hDRaS-r3v6">
+<mxfile type="github" version="12.1.1" pages="6" modified="2019-10-14T13:56:40.532Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; .NET4.0C; .NET4.0E; .NET CLR 2.0.50727; .NET CLR 3.0.30729; .NET CLR 3.5.30729; Tablet PC 2.0; wbx 1.0.0; rv:11.0) like Gecko" etag="Z9ggUDAxVms9bOMaxK5U">
   <diagram name="Analytics" id="z_twg87dkK-BmfiqCGdA">
     <mxGraphModel grid="1" shadow="0" math="0" pageHeight="1169" pageWidth="827" pageScale="1" page="1" fold="1" arrows="1" connect="1" tooltips="1" guides="1" gridSize="10" dy="1693" dx="1849">
       <root>
@@ -2160,7 +2160,7 @@
         <mxCell id="qDCQAtpvKCLZY7bAStZI-0"/>
         <mxCell id="qDCQAtpvKCLZY7bAStZI-1" parent="qDCQAtpvKCLZY7bAStZI-0"/>
         <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" value="Acc.Doc / ACDOCA" id="qDCQAtpvKCLZY7bAStZI-2" parent="qDCQAtpvKCLZY7bAStZI-1" vertex="1">
-          <mxGeometry width="220" as="geometry" height="1378" y="30" x="20"/>
+          <mxGeometry width="220" as="geometry" height="1508" y="30" x="20"/>
         </mxCell>
         <mxCell style="text;strokeColor=none;fillColor=#FFFF99;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" value="Ledger" id="qDCQAtpvKCLZY7bAStZI-3" parent="qDCQAtpvKCLZY7bAStZI-2" vertex="1">
           <mxGeometry width="220" as="geometry" height="26" y="26"/>
@@ -2317,6 +2317,21 @@
         </mxCell>
         <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" value="Partner Profit Center" id="pPrw_o-ZcNWSR4LBIZ9f-3" parent="qDCQAtpvKCLZY7bAStZI-2" vertex="1">
           <mxGeometry width="220" as="geometry" height="26" y="1352"/>
+        </mxCell>
+        <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" value="Value in Group Currency" id="djkcIdqfkZZy1t5nWooZ-2" parent="qDCQAtpvKCLZY7bAStZI-2" vertex="1">
+          <mxGeometry width="220" as="geometry" height="26" y="1378"/>
+        </mxCell>
+        <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" value="Number of Line Item Within Accounting Document" id="djkcIdqfkZZy1t5nWooZ-3" parent="qDCQAtpvKCLZY7bAStZI-2" vertex="1">
+          <mxGeometry width="220" as="geometry" height="26" y="1404"/>
+        </mxCell>
+        <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" value="Document Status" id="djkcIdqfkZZy1t5nWooZ-4" parent="qDCQAtpvKCLZY7bAStZI-2" vertex="1">
+          <mxGeometry width="220" as="geometry" height="26" y="1430"/>
+        </mxCell>
+        <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" value="Item Number of Purchasing Document" id="djkcIdqfkZZy1t5nWooZ-5" parent="qDCQAtpvKCLZY7bAStZI-2" vertex="1">
+          <mxGeometry width="220" as="geometry" height="26" y="1456"/>
+        </mxCell>
+        <mxCell style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" value="Clearing Date" id="djkcIdqfkZZy1t5nWooZ-6" parent="qDCQAtpvKCLZY7bAStZI-2" vertex="1">
+          <mxGeometry width="220" as="geometry" height="26" y="1482"/>
         </mxCell>
         <mxCell style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" value="Acc. Doc / BKPF" id="oqkK6hrY4jNhEQoQvPJT-0" parent="qDCQAtpvKCLZY7bAStZI-1" vertex="1">
           <mxGeometry width="180" as="geometry" height="624" y="-369.1666666666667" x="-280"/>
