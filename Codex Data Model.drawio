@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-04T10:54:42.611Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="SoixU93hDMxiRz5ofHEr" version="12.1.9" type="github" pages="6">
+<mxfile modified="2019-11-04T11:01:36.464Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="Z_unE3g-f_Rp1I93FN9r" version="12.1.9" type="github" pages="6">
   <diagram name="Analytics" id="z_twg87dkK-BmfiqCGdA">
     <mxGraphModel dx="3689" dy="2813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1378,7 +1378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Purchase" id="fw7SKADaEKCXP3abVDj6">
-    <mxGraphModel dx="3744" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4085" dy="2470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="5azarEYD_lyUO_ajmbwL-0"/>
         <mxCell id="5azarEYD_lyUO_ajmbwL-1" parent="5azarEYD_lyUO_ajmbwL-0"/>
@@ -2052,7 +2052,7 @@
           <mxGeometry x="2468" y="1445" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="vwHyngui1C3tSJe3mtN9-1" value="Production Order" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#99CCFF;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="5azarEYD_lyUO_ajmbwL-1">
-          <mxGeometry x="3120" y="-711" width="230" height="78" as="geometry"/>
+          <mxGeometry x="3010" y="-711" width="230" height="78" as="geometry"/>
         </mxCell>
         <mxCell id="vwHyngui1C3tSJe3mtN9-2" value="Header Data" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="vwHyngui1C3tSJe3mtN9-1">
           <mxGeometry y="26" width="230" height="26" as="geometry"/>
@@ -2073,8 +2073,24 @@
         <mxCell id="vwHyngui1C3tSJe3mtN9-5" value="Order" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="vwHyngui1C3tSJe3mtN9-4">
           <mxGeometry y="26" width="230" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="vwHyngui1C3tSJe3mtN9-6" value="Basic finish date&#xa;&#xa;Basic Start Date&#xa;&#xa;Sched. release date&#xa;&#xa;Scheduled finish&#xa;&#xa;Scheduled start&#xa;&#xa;Actual start date&#xa;&#xa;Actual Finish Date&#xa;&#xa;Actual finish date&#xa;&#xa;Actual release date&#xa;&#xa;Planned Release Date&#xa;&#xa;Reservation&#xa;&#xa;Total Order Quantity&#xa;&#xa;Task List Type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="vwHyngui1C3tSJe3mtN9-4">
+        <mxCell id="vwHyngui1C3tSJe3mtN9-6" value="Basic finish date&#xa;&#xa;Basic Start Date&#xa;&#xa;Sched. release date&#xa;&#xa;Scheduled finish&#xa;&#xa;Scheduled start&#xa;&#xa;Actual start date&#xa;&#xa;Actual Finish Date&#xa;&#xa;Actual finish date&#xa;&#xa;Actual release date&#xa;&#xa;Planned Release Date&#xa;&#xa;Reservation&#xa;&#xa;Total Order Quantity&#xa;&#xa;Task List Type&#xa;&#xa;BOM Explosion Date&#xa;&#xa;Opertn task list no.&#xa;&#xa;Scheduling type&#xa;&#xa;Network Profile&#xa;&#xa;Planned Costs Costing Variant&#xa;&#xa;Actual Costs Costing Variant&#xa;&#xa;Scheduling basis&#xa;&#xa;Ind. work&#xa;&#xa;Sched. type forecast" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="vwHyngui1C3tSJe3mtN9-4">
           <mxGeometry y="52" width="230" height="628" as="geometry"/>
+        </mxCell>
+        <mxCell id="vwHyngui1C3tSJe3mtN9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="5azarEYD_lyUO_ajmbwL-1" source="vwHyngui1C3tSJe3mtN9-8" target="vwHyngui1C3tSJe3mtN9-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3400" y="-652"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwHyngui1C3tSJe3mtN9-8" value="Reservation Header Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFCC99;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="5azarEYD_lyUO_ajmbwL-1">
+          <mxGeometry x="3310" y="-540" width="230" height="710" as="geometry"/>
+        </mxCell>
+        <mxCell id="vwHyngui1C3tSJe3mtN9-9" value="Reservation" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="vwHyngui1C3tSJe3mtN9-8">
+          <mxGeometry y="26" width="230" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="vwHyngui1C3tSJe3mtN9-10" value="Order&#xa;Order Type&#xa;Order category&#xa;Reference Order&#xa;Entered By&#xa;Created On&#xa;Last Changed By&#xa;Change Date for Order Master&#xa;Description&#xa;Long Text Exists&#xa;Company Code&#xa;Plant&#xa;Business Area&#xa;Controlling Area&#xa;Cost Collector Key&#xa;Responsible CCtr&#xa;Location/Plant&#xa;Location Plant&#xa;Statistical&#xa;Currency&#xa;Order Status&#xa;Created&#xa;Released&#xa;Completed&#xa;Closed&#xa;Technical Completion&#xa;Close&#xa;Application&#xa;Costing Sheet&#xa;Cost Center&#xa;G/L Account&#xa;Object number&#xa;Analytical unit&#xa;Time created&#xa;Changed at&#xa;Main Work Center&#xa;Plant for WorkCenter&#xa;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="vwHyngui1C3tSJe3mtN9-8">
+          <mxGeometry y="52" width="230" height="658" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
