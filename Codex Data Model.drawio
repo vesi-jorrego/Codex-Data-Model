@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-04T10:37:57.410Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="FqvD8tAY7eqOzTLbPpxC" version="12.1.9" type="github" pages="6">
+<mxfile modified="2019-11-04T10:54:42.611Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="SoixU93hDMxiRz5ofHEr" version="12.1.9" type="github" pages="6">
   <diagram name="Analytics" id="z_twg87dkK-BmfiqCGdA">
     <mxGraphModel dx="3689" dy="2813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1378,7 +1378,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Purchase" id="fw7SKADaEKCXP3abVDj6">
-    <mxGraphModel dx="4562" dy="2744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3744" dy="2274" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="5azarEYD_lyUO_ajmbwL-0"/>
         <mxCell id="5azarEYD_lyUO_ajmbwL-1" parent="5azarEYD_lyUO_ajmbwL-0"/>
@@ -2068,13 +2068,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vwHyngui1C3tSJe3mtN9-4" value="Productio norder " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFCC99;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="5azarEYD_lyUO_ajmbwL-1">
-          <mxGeometry x="2710" y="-540" width="230" height="390" as="geometry"/>
+          <mxGeometry x="2710" y="-540" width="230" height="680" as="geometry"/>
         </mxCell>
-        <mxCell id="vwHyngui1C3tSJe3mtN9-5" value="Reservation" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="vwHyngui1C3tSJe3mtN9-4">
+        <mxCell id="vwHyngui1C3tSJe3mtN9-5" value="Order" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="vwHyngui1C3tSJe3mtN9-4">
           <mxGeometry y="26" width="230" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="vwHyngui1C3tSJe3mtN9-6" value="Origin&#xa;&#xa;Calendar&#xa;&#xa;Base date&#xa;&#xa;User Name&#xa;&#xa;Movement type&#xa;&#xa;Order&#xa;.&#xa;BOM Explos. No.&#xa;&#xa;CO Area&#xa;&#xa;Clearing CoCode&#xa;&#xa;Analytical U&#xa;&#xa;Project&#xa;&#xa;Functional Area" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="vwHyngui1C3tSJe3mtN9-4">
-          <mxGeometry y="52" width="230" height="338" as="geometry"/>
+        <mxCell id="vwHyngui1C3tSJe3mtN9-6" value="Basic finish date&#xa;&#xa;Basic Start Date&#xa;&#xa;Sched. release date&#xa;&#xa;Scheduled finish&#xa;&#xa;Scheduled start&#xa;&#xa;Actual start date&#xa;&#xa;Actual Finish Date&#xa;&#xa;Actual finish date&#xa;&#xa;Actual release date&#xa;&#xa;Planned Release Date&#xa;&#xa;Reservation&#xa;&#xa;Total Order Quantity&#xa;&#xa;Task List Type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="vwHyngui1C3tSJe3mtN9-4">
+          <mxGeometry y="52" width="230" height="628" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
