@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-04T10:28:11.785Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="JTdaUSXtbVx2w6xTyXZl" version="12.1.9" type="github" pages="6">
+<mxfile modified="2019-11-04T10:37:57.410Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36" etag="FqvD8tAY7eqOzTLbPpxC" version="12.1.9" type="github" pages="6">
   <diagram name="Analytics" id="z_twg87dkK-BmfiqCGdA">
     <mxGraphModel dx="3689" dy="2813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1607,7 +1607,7 @@
         <mxCell id="F7DNkztHqnJ-rZZp2GsU-8" value="RequirementType&#xa;&#xa;Reserv. status&#xa;&#xa;Deleted&#xa;&#xa;Mvt allowed&#xa;&#xa;Final issue&#xa;&#xa;Material&#xa;&#xa;Plant&#xa;&#xa;Stor. location&#xa;&#xa;Batch&#xa;&#xa;Reqmts date&#xa;&#xa;Requirement qty&#xa;&#xa;Base Unit&#xa;&#xa;Debit/Credit&#xa;&#xa;Qty. is fixed&#xa;&#xa;Withdrawal Qty&#xa;&#xa;Withdr. Value&#xa;&#xa;Currency&#xa;&#xa;Quantity in UnE&#xa;&#xa;Unit of Entry&#xa;&#xa;Order&#xa;&#xa;Pegged Reqmt&#xa;&#xa;Movement type&#xa;&#xa;G/L Account&#xa;&#xa;Business Area&#xa;&#xa;Receiving plant&#xa;&#xa;Receiving SLoc.&#xa;&#xa;FollowUp MatInd&#xa;&#xa;FollUp/OrigMat.&#xa;&#xa;Input Quantity&#xa;&#xa;Item category&#xa;&#xa;BOM item&#xa;&#xa;Text&#xa;&#xa;BOM category&#xa;&#xa;BOM&#xa;&#xa;Item node&#xa;&#xa;Counter&#xa;&#xa;Acct Assgmt Cat&#xa;&#xa;Purch. Group&#xa;&#xa;Address number&#xa;&#xa;Pur.Family&#xa;&#xa;Vendor&#xa;&#xa;Created on&#xa;&#xa;Time&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="F7DNkztHqnJ-rZZp2GsU-6" vertex="1">
           <mxGeometry y="104" width="250" height="1206" as="geometry"/>
         </mxCell>
-        <mxCell id="4Q5XvyZewP33MoTtscp6-0" value="Reservation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFCC99;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="5azarEYD_lyUO_ajmbwL-1" vertex="1">
+        <mxCell id="4Q5XvyZewP33MoTtscp6-0" value="Reservation Header Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFCC99;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="5azarEYD_lyUO_ajmbwL-1" vertex="1">
           <mxGeometry x="1160" y="-551" width="230" height="390" as="geometry"/>
         </mxCell>
         <mxCell id="4Q5XvyZewP33MoTtscp6-1" value="Reservation" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" parent="4Q5XvyZewP33MoTtscp6-0" vertex="1">
@@ -2057,8 +2057,24 @@
         <mxCell id="vwHyngui1C3tSJe3mtN9-2" value="Header Data" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="vwHyngui1C3tSJe3mtN9-1">
           <mxGeometry y="26" width="230" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="vwHyngui1C3tSJe3mtN9-3" value="Reservation/dependent requirements" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="vwHyngui1C3tSJe3mtN9-1">
+        <mxCell id="vwHyngui1C3tSJe3mtN9-3" value="Item Data" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="vwHyngui1C3tSJe3mtN9-1">
           <mxGeometry y="52" width="230" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="vwHyngui1C3tSJe3mtN9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="5azarEYD_lyUO_ajmbwL-1" source="vwHyngui1C3tSJe3mtN9-4" target="vwHyngui1C3tSJe3mtN9-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2826" y="-672"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vwHyngui1C3tSJe3mtN9-4" value="Productio norder " style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#FFCC99;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="5azarEYD_lyUO_ajmbwL-1">
+          <mxGeometry x="2710" y="-540" width="230" height="390" as="geometry"/>
+        </mxCell>
+        <mxCell id="vwHyngui1C3tSJe3mtN9-5" value="Reservation" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="vwHyngui1C3tSJe3mtN9-4">
+          <mxGeometry y="26" width="230" height="26" as="geometry"/>
+        </mxCell>
+        <mxCell id="vwHyngui1C3tSJe3mtN9-6" value="Origin&#xa;&#xa;Calendar&#xa;&#xa;Base date&#xa;&#xa;User Name&#xa;&#xa;Movement type&#xa;&#xa;Order&#xa;.&#xa;BOM Explos. No.&#xa;&#xa;CO Area&#xa;&#xa;Clearing CoCode&#xa;&#xa;Analytical U&#xa;&#xa;Project&#xa;&#xa;Functional Area" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="vwHyngui1C3tSJe3mtN9-4">
+          <mxGeometry y="52" width="230" height="338" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
