@@ -1,6 +1,6 @@
-<mxfile modified="2019-11-15T14:00:38.887Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="rIGspaDtqVOO0_uNzVq2" version="12.2.6" type="github" pages="6">
+<mxfile modified="2019-11-15T14:13:45.070Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="QI1Rh72g6pv-TveG6X-i" version="12.2.6" type="github" pages="6">
   <diagram name="Analytics" id="z_twg87dkK-BmfiqCGdA">
-    <mxGraphModel dx="1944" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1274" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -205,7 +205,7 @@
         <mxCell id="NBoWqLxddeZC6eDTmRRg-8" value="Validity" style="text;strokeColor=none;fillColor=#FFFFFF;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="lDzSUfxi5BvbEKOxiYQz-241" vertex="1">
           <mxGeometry y="170" width="210" height="24" as="geometry"/>
         </mxCell>
-        <mxCell id="lDzSUfxi5BvbEKOxiYQz-246" value="SLS Customer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;opacity=20;" parent="1" vertex="1">
+        <mxCell id="lDzSUfxi5BvbEKOxiYQz-246" value="SLS/PUR Customer" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;opacity=20;" parent="1" vertex="1">
           <mxGeometry x="480" y="562" width="220" height="74" as="geometry">
             <mxRectangle x="100" y="70" width="80" height="24" as="alternateBounds"/>
           </mxGeometry>
@@ -268,7 +268,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lDzSUfxi5BvbEKOxiYQz-263" value="SLS Customer segmentation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;swimlaneLine=1;rounded=0;shadow=0;comic=0;glass=0;opacity=20;" parent="1" vertex="1">
+        <mxCell id="lDzSUfxi5BvbEKOxiYQz-263" value="SLS/PUR Customer segmentation" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;swimlaneLine=1;rounded=0;shadow=0;comic=0;glass=0;opacity=20;" parent="1" vertex="1">
           <mxGeometry x="1135" y="630" width="215" height="218" as="geometry">
             <mxRectangle x="100" y="70" width="80" height="24" as="alternateBounds"/>
           </mxGeometry>
