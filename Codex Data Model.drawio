@@ -1,4 +1,4 @@
-<mxfile modified="2020-03-31T20:40:31.643Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="oGfqu7XZWqsExzMfyWyp" version="12.9.6" type="github" pages="6">
+<mxfile modified="2020-03-31T20:44:00.444Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="WU8Xsurxgcp-o2BZFrOd" version="12.9.6" type="github" pages="6">
   <diagram name="Analytics" id="z_twg87dkK-BmfiqCGdA">
     <mxGraphModel dx="3434" dy="2759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1482,7 +1482,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rCp2LZn4sZPn_0zhZrlM" name="HR">
-    <mxGraphModel dx="3910" dy="2385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="9775" dy="5963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="-ZxqDf9GpTMaq9AzUWJU-0" />
         <mxCell id="-ZxqDf9GpTMaq9AzUWJU-1" parent="-ZxqDf9GpTMaq9AzUWJU-0" />
@@ -1879,7 +1879,7 @@
           <mxGeometry y="242" width="220" height="32" as="geometry" />
         </mxCell>
         <mxCell id="6hErnlzn6HmSCZl96OPN-35" value="Employee Bank Details" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="-ZxqDf9GpTMaq9AzUWJU-1">
-          <mxGeometry x="940" y="2030" width="220" height="402" as="geometry">
+          <mxGeometry x="940" y="2030" width="220" height="370" as="geometry">
             <mxRectangle x="100" y="70" width="80" height="24" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1915,9 +1915,6 @@
         </mxCell>
         <mxCell id="6hErnlzn6HmSCZl96OPN-47" value="Bank Account" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="6hErnlzn6HmSCZl96OPN-35">
           <mxGeometry y="338" width="220" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="6hErnlzn6HmSCZl96OPN-48" value="IBAN" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="6hErnlzn6HmSCZl96OPN-35">
-          <mxGeometry y="370" width="220" height="32" as="geometry" />
         </mxCell>
         <mxCell id="6hErnlzn6HmSCZl96OPN-21" value="Employee Adresses" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="-ZxqDf9GpTMaq9AzUWJU-1">
           <mxGeometry x="660" y="1950" width="220" height="402" as="geometry">
