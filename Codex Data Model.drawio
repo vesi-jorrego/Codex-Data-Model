@@ -1,4 +1,4 @@
-<mxfile modified="2020-03-31T19:40:08.494Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="U2qcGs7ryD8nCtm9Lb_F" version="12.9.6" type="github" pages="7">
+<mxfile modified="2020-03-31T19:44:13.113Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="4DjwaBeSAABSRLAiNwic" version="12.9.6" type="github" pages="7">
   <diagram name="Analytics" id="z_twg87dkK-BmfiqCGdA">
     <mxGraphModel dx="1609" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3824,6 +3824,35 @@
         <mxCell id="6hErnlzn6HmSCZl96OPN-48" value="IBAN" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="6hErnlzn6HmSCZl96OPN-35">
           <mxGeometry y="370" width="220" height="32" as="geometry" />
         </mxCell>
+        <mxCell id="6hErnlzn6HmSCZl96OPN-50" value="Employee Analytical Area" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="-ZxqDf9GpTMaq9AzUWJU-1">
+          <mxGeometry x="1250" y="1620" width="220" height="274" as="geometry">
+            <mxRectangle x="100" y="70" width="80" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6hErnlzn6HmSCZl96OPN-51" value="Employee Number" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=1" vertex="1" parent="6hErnlzn6HmSCZl96OPN-50">
+          <mxGeometry y="24" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="6hErnlzn6HmSCZl96OPN-52" value="Start Date" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="6hErnlzn6HmSCZl96OPN-50">
+          <mxGeometry y="50" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="6hErnlzn6HmSCZl96OPN-53" value="End Date" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="6hErnlzn6HmSCZl96OPN-50">
+          <mxGeometry y="82" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="6hErnlzn6HmSCZl96OPN-54" value="Modification Date" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="6hErnlzn6HmSCZl96OPN-50">
+          <mxGeometry y="114" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="6hErnlzn6HmSCZl96OPN-55" value="Modified by" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="6hErnlzn6HmSCZl96OPN-50">
+          <mxGeometry y="146" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="6hErnlzn6HmSCZl96OPN-56" value="Sender Cost Center" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="6hErnlzn6HmSCZl96OPN-50">
+          <mxGeometry y="178" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="6hErnlzn6HmSCZl96OPN-57" value="Activity Type" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="6hErnlzn6HmSCZl96OPN-50">
+          <mxGeometry y="210" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="6hErnlzn6HmSCZl96OPN-58" value="Visa Validity Date" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="6hErnlzn6HmSCZl96OPN-50">
+          <mxGeometry y="242" width="220" height="32" as="geometry" />
+        </mxCell>
         <mxCell id="2h1Jyh4B_bftrv5hfsCa-0" value="Attenances transfert HRA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" parent="-ZxqDf9GpTMaq9AzUWJU-1" vertex="1">
           <mxGeometry x="3500" y="2320" width="220" height="290" as="geometry">
             <mxRectangle x="100" y="70" width="80" height="24" as="alternateBounds" />
@@ -3967,6 +3996,17 @@
               <mxPoint x="1860" y="1380" />
               <mxPoint x="1780" y="1587" />
               <mxPoint x="2460" y="1680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6hErnlzn6HmSCZl96OPN-63" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="-ZxqDf9GpTMaq9AzUWJU-1" source="ESFwEjqtcBOhkiEV4nyt-1" target="6hErnlzn6HmSCZl96OPN-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2241" y="1257" as="sourcePoint" />
+            <mxPoint x="1190" y="1587" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1870" y="1390" />
+              <mxPoint x="1790" y="1597" />
+              <mxPoint x="2470" y="1690" />
             </Array>
           </mxGeometry>
         </mxCell>
