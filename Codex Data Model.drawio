@@ -1,4 +1,4 @@
-<mxfile modified="2020-04-01T08:10:44.143Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="b4CK5bq1PcA74_0bfF5z" version="12.9.6" type="github" pages="6">
+<mxfile modified="2020-04-01T08:16:10.195Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="1orBGDBfBu4ykYWTdjBG" version="12.9.6" type="github" pages="6">
   <diagram name="Analytics" id="z_twg87dkK-BmfiqCGdA">
     <mxGraphModel dx="1609" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1742,6 +1742,34 @@
         <mxCell id="8cgL-PpFbuVe6TjhV8jn-31" value="Switchover Date HRA" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="8cgL-PpFbuVe6TjhV8jn-24" vertex="1">
           <mxGeometry y="194" width="220" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="AVa7DHfM4dtpXtamKPIh-32" value="Work Schedule" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="-ZxqDf9GpTMaq9AzUWJU-1">
+          <mxGeometry x="1230" y="1370" width="220" height="82" as="geometry">
+            <mxRectangle x="100" y="70" width="80" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AVa7DHfM4dtpXtamKPIh-33" value="Work Schedule Group" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=1" vertex="1" parent="AVa7DHfM4dtpXtamKPIh-32">
+          <mxGeometry y="24" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AVa7DHfM4dtpXtamKPIh-34" value="Daily Work Schedule Code" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="AVa7DHfM4dtpXtamKPIh-32">
+          <mxGeometry y="50" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="AVa7DHfM4dtpXtamKPIh-38" value="Work Schedule Text" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" vertex="1" parent="-ZxqDf9GpTMaq9AzUWJU-1">
+          <mxGeometry x="1230" y="1490" width="220" height="146" as="geometry">
+            <mxRectangle x="100" y="70" width="80" height="24" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AVa7DHfM4dtpXtamKPIh-39" value="Work Schedule Group" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=1" vertex="1" parent="AVa7DHfM4dtpXtamKPIh-38">
+          <mxGeometry y="24" width="220" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AVa7DHfM4dtpXtamKPIh-40" value="Daily Work Schedule Code" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="AVa7DHfM4dtpXtamKPIh-38">
+          <mxGeometry y="50" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="AVa7DHfM4dtpXtamKPIh-41" value="Language" style="text;strokeColor=#d6b656;fillColor=#fff2cc;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="AVa7DHfM4dtpXtamKPIh-38">
+          <mxGeometry y="82" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="AVa7DHfM4dtpXtamKPIh-42" value="Daily Work Schedule Description" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="AVa7DHfM4dtpXtamKPIh-38">
+          <mxGeometry y="114" width="220" height="32" as="geometry" />
+        </mxCell>
         <mxCell id="8cgL-PpFbuVe6TjhV8jn-33" value="Pivot Date" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=24;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" parent="-ZxqDf9GpTMaq9AzUWJU-1" vertex="1">
           <mxGeometry x="3500" y="2100" width="220" height="162" as="geometry">
             <mxRectangle x="100" y="70" width="80" height="24" as="alternateBounds" />
@@ -2876,6 +2904,26 @@
             <Array as="points">
               <mxPoint x="1770" y="1300" />
               <mxPoint x="1670" y="1270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AVa7DHfM4dtpXtamKPIh-37" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-ZxqDf9GpTMaq9AzUWJU-1" source="AVa7DHfM4dtpXtamKPIh-26" target="AVa7DHfM4dtpXtamKPIh-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="1428" as="sourcePoint" />
+            <mxPoint x="940" y="1766" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1180" y="1510" />
+              <mxPoint x="1890" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AVa7DHfM4dtpXtamKPIh-43" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="-ZxqDf9GpTMaq9AzUWJU-1" source="AVa7DHfM4dtpXtamKPIh-33" target="AVa7DHfM4dtpXtamKPIh-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="1557" as="sourcePoint" />
+            <mxPoint x="1240" y="1446" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1470" y="1470" />
+              <mxPoint x="1900" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
